@@ -6,3 +6,5 @@ First 4mm use 0.1mm layer height, rest use 0.2mm layer height.
 ![AsBuilt](AsBuilt.png)
 
 [BOM from Octopart for choosing the best supplier(s) for your location.](https://octopart.com/bom-tool/hvU9ddXU)
+
+Note: Wiring_Alt is used for Cadillac XT6 and Chevy Blazer (ICE)
